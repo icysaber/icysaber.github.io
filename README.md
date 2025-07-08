@@ -19,4 +19,4 @@ Built with [GitHub Pages](https://pages.github.com/).
 ## Contact
 
 - [LinkedIn](https://linkedin.com/in/dallasgirard)
-- Email: dallas.girard@example.com
+- Email: dallas.girard@proton.me
